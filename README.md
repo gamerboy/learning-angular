@@ -5,7 +5,18 @@
 * [x] Add Angular Material
 * [x] Add Tailwind CSS
 * [x] Create homepage with routing
-* [ ] Create 404 page
+* [x] Create 404 page
+* [x] Define color palette
+
+## Color palette
+
+[Palette](https://coolors.co/417b5a-9197ae-053c5e-b91372-fa198b)
+
+* Viridian Green: #417B5A
+* Cool Gray: #9197AE
+* Indigo Dye: #053C5E
+* Red Violet: #B91372
+* Magenta: #FA198B
 
 ## Technical stuff
 

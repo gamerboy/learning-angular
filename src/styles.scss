@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+$magenta: #FA198B;
+
+.bg-magenta {
+  background-color: $magenta;
+}
