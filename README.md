@@ -4,7 +4,8 @@
 
 * [x] Add Angular Material
 * [x] Add Tailwind CSS
-* [ ] Create homepage with routing 
+* [x] Create homepage with routing
+* [ ] Create 404 page
 
 ## Technical stuff
 
