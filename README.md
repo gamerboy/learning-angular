@@ -7,6 +7,9 @@
 * [x] Create homepage with routing
 * [x] Create 404 page
 * [x] Define color palette
+* [x] Style 404 page
+* [ ] Choose and integrate a code highlighter plugin
+* [ ] Style homepage
 
 ## Color palette
 
@@ -17,6 +20,11 @@
 * Indigo Dye: #053C5E
 * Red Violet: #B91372
 * Magenta: #FA198B
+
+## Code Highlight plugin
+
+* PrismJS
+* HighlightJS
 
 ## Technical stuff
 
