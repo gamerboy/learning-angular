@@ -4,8 +4,9 @@
 
 * [x] Add Angular Material
 * [x] Add Tailwind CSS
+* [ ] Create homepage with routing 
 
-## Technical info
+## Technical stuff
 
 * This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.2
 * Development server: `ng serve`, `http://localhost:4200/`
