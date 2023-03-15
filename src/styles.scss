@@ -4,6 +4,10 @@
 
 @import '~highlight.js/styles/atom-one-dark.css';
 
+$viridian-green: #417B5A;
+$cool-gray: #9197AE;
+$indigo-dye: #053C5E;
+$red-violet: #B91372;
 $magenta: #FA198B;
 
 @mixin reset-list {
@@ -27,6 +31,10 @@ nav ul {
   @include horizontal-list;
 }
 
+
+.bg-homepage {
+  background-color: $cool-gray;
+}
 
 .bg-page-not-found {
   background-color: $magenta;
