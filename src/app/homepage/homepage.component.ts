@@ -6,5 +6,8 @@ import { Component } from '@angular/core';
   styleUrls: ['./homepage.component.scss']
 })
 export class HomepageComponent {
-
+  code = `function myFunction() {
+  document.getElementById("demo1").innerHTML = "Test 1!";
+  document.getElementById("demo2").innerHTML = "Test 2!";
+}`;
 }
