@@ -8,7 +8,8 @@
 * [x] Create 404 page
 * [x] Define color palette
 * [x] Style 404 page
-* [ ] Choose and integrate a code highlighter plugin
+* [x] Choose and integrate a code highlighter plugin
+* [ ] Fix Prism line numbering issue
 * [ ] Style homepage
 
 ## Color palette
